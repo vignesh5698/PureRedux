@@ -1,0 +1,22 @@
+{
+  "name": "pureredux",
+  "version": "1.0.0",
+  "description": "Simple pure redux program",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vignesh5698/PureRedux.git"
+  },
+  "author": "Vignesh5698",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vignesh5698/PureRedux/issues"
+  },
+  "homepage": "https://github.com/vignesh5698/PureRedux#readme",
+  "dependencies": {
+    "redux": "^4.0.1"
+  }
+}
